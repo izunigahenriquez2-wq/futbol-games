@@ -1,2 +1,2 @@
-# futbol-games
+# planeta-gol
 Pagina para minijuegos de Futbol.
